@@ -1,0 +1,10 @@
+.header {
+   background-color: darkslateblue;
+   color:aliceblue;
+   text-align: left;
+   padding: 10px;
+}
+
+.actionButtonsAlignment {
+   margin: 2% 1%;
+}
